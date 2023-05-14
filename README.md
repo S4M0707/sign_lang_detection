@@ -26,4 +26,4 @@ All the python codes in the src directory are used for:
 
 ## Demo
 
-![](https://github.com/S4M0707/sign_lang_detection/demo.gif)
+![Demo](./demo.gif)
